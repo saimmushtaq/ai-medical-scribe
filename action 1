@@ -1,0 +1,2 @@
+npx create-next-app@latest ai-medical-scribe --typescript
+cd ai-medical-scribe
